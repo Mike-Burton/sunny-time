@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    text-align: center;
+}
+
+@font-face {
+    font-family: "Textile Regular";
+    src: url("media/Textile.ttf") format("truetype");
+}
+
+body {
+    font-family: "Textile Regular", sans-serif;
+    color: white;
+}
+
+h1, h2, p {
+    font-family: "Textile Regular", sans-serif;
+    color: white;
+}
